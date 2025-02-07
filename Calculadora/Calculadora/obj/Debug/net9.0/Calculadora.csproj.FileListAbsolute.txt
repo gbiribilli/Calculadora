@@ -1,0 +1,14 @@
+F:\vscode\repos\Calculadora\Calculadora\bin\Debug\net9.0\Calculadora.exe
+F:\vscode\repos\Calculadora\Calculadora\bin\Debug\net9.0\Calculadora.deps.json
+F:\vscode\repos\Calculadora\Calculadora\bin\Debug\net9.0\Calculadora.runtimeconfig.json
+F:\vscode\repos\Calculadora\Calculadora\bin\Debug\net9.0\Calculadora.dll
+F:\vscode\repos\Calculadora\Calculadora\bin\Debug\net9.0\Calculadora.pdb
+F:\vscode\repos\Calculadora\Calculadora\obj\Debug\net9.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+F:\vscode\repos\Calculadora\Calculadora\obj\Debug\net9.0\Calculadora.AssemblyInfoInputs.cache
+F:\vscode\repos\Calculadora\Calculadora\obj\Debug\net9.0\Calculadora.AssemblyInfo.cs
+F:\vscode\repos\Calculadora\Calculadora\obj\Debug\net9.0\Calculadora.csproj.CoreCompileInputs.cache
+F:\vscode\repos\Calculadora\Calculadora\obj\Debug\net9.0\Calculadora.dll
+F:\vscode\repos\Calculadora\Calculadora\obj\Debug\net9.0\refint\Calculadora.dll
+F:\vscode\repos\Calculadora\Calculadora\obj\Debug\net9.0\Calculadora.pdb
+F:\vscode\repos\Calculadora\Calculadora\obj\Debug\net9.0\Calculadora.genruntimeconfig.cache
+F:\vscode\repos\Calculadora\Calculadora\obj\Debug\net9.0\ref\Calculadora.dll
